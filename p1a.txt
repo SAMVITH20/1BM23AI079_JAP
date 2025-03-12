@@ -1,0 +1,13 @@
+p1a
+Enter name: phani
+Enter age: 20
+Enter membership status (Active/Inactive): Active\
+Enter membership duration (in months): 12
+
+----------------  MEMBERSHIP DETAILS ----------------
+Name: phani
+Age: 20
+Membership status: Active\
+Membership duration: 12 months
+Membership fee: 18000.0
+Process finished with exit code 0

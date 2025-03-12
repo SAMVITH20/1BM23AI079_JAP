@@ -1,0 +1,7 @@
+p2
+Value of a=5
+Value of b=5
+Value of c=5
+Value of a=5.0
+Value of b=5.0
+Value of c=5.0
