@@ -1,0 +1,9 @@
+p3
+Capacity of stringbuffer object sb1:16
+Capacity of stringbuffer object sb2:21
+Enter a string:
+LIKith
+Reverse string in uppercase:HTIKIL
+Enter another string:
+kishan
+Concatenated sting:LIKithkishan
