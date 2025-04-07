@@ -1,0 +1,27 @@
+Enter Name of student 1:
+Pavan R N
+Enter Marks of student 1:
+100
+Pavan R N has scored a total of: 100
+Enter Name of student 2:
+Mahit A R
+Enter Marks of student 2:
+100
+Mahit A R has scored a total of: 100
+Enter Name of student 3:
+Meet Patil
+Enter Marks of student 3:
+100
+Meet Patil has scored a total of: 100
+Enter Name of student 4:
+Navit Mathur
+Enter Marks of student 4:
+100
+Navit Mathur has scored a total of: 100
+Enter Name of student 5:
+Rajendra Prasad
+Enter Marks of student 5:
+100
+Rajendra Prasad has scored a total of: 100
+The student with the highest marks is Pavan R N with 100 marks.
+The total sum of marks for all students is: 500
