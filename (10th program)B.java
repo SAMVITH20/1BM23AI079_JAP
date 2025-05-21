@@ -1,5 +1,5 @@
 package bpack;
-import apack.a;
+import apack.A;
 class B extends A {
     public void display() {
         System.out.println("Protected: " + protectedVar);
